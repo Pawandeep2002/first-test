@@ -1,0 +1,119 @@
+*{
+	margin:0px auto;
+	padding:0px;
+	box-sizing:border-box;
+	
+}
+.hero{
+	height:600px;
+	width:100%;
+	background-image:url(images/off.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.header{
+	height:100px;
+	width:90%;
+	background-color:transparent;
+	margin:0px auto;
+}
+.logo{
+	height:100px;
+	width:15%;
+	background-color:transparent;
+	float:left;
+	
+}
+.logo-text{
+	font-size:25px;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	text-align:center;
+	padding:25px 0px 0px 0px;
+}
+.logo-start{
+	color:#ff1a1a;
+	box-shadow:3px 4px 6px 3px black;
+	
+}
+.logo-end{
+	color:#e6e600;
+	box-shadow:3px 4px 6px 3px black;
+
+}
+.allnav{
+	height:100px;
+	width:85%;
+	background-color:transparent;
+	float:left;
+}
+a{
+	text-decoration:none;
+	position:relative;
+	top:30px;
+	left:500px;
+	color:#000;
+	font-size:20px;
+	margin:20px;
+	box-shadow:4px 3px 2px 2px black;
+}
+.Info{
+	height:400px;
+	width:100%;
+	background:transparent;
+	
+	
+	
+}
+.images{
+	height:400px;
+	width:40%;
+	background-image:url(images/yy.jpg);
+	background-size:cover;
+	background-position:center;
+	float:left;
+}
+.pop{
+	height:400px;
+	width:60%;
+	background:transparent;
+	float:left;
+	box-shadow:0px 1px 2px 1px gray;
+	
+}
+h1{
+	text-align:center;
+	padding:30px;
+	font-size:30px;
+	
+}
+.all{
+	text-align:center;
+	padding:30px;
+	line-height:30px;
+	font-size:20px;
+	
+}
+.vvv{
+	height:400px;
+	width:100%;
+	background:transparent;
+	
+	
+}
+.bggg{
+	height:400px;
+	width:60%;
+	background:transparent;
+	float:left;
+	box-shadow:3px 0px 1px 1px gray;
+}
+.dddd{
+	height:400px;
+	width:40%;
+	background-image:url(images/txx.jpg);
+	float:left;
+	background-size:cover;
+	background-position:center;
+	box-shadow:0px 1px 0px 0px gray;
+}
